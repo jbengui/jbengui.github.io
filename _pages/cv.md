@@ -35,5 +35,5 @@ redirect_from:
 * Swiss National Bank, Research Assistant, 2006 - 2007
 
 
-For info about publications, seminar and conference presentations, discussants, grants, grants, teaching, advising, conference organization and refereeing, please see pdf version of CV [here](https://jbengui.github.io/files/CV_jbengui.pdf).
+For info about publications, seminar and conference presentations, discussants, grants, teaching, advising, conference organization and refereeing, please see pdf version of CV [here](https://jbengui.github.io/files/CV_jbengui.pdf).
   
