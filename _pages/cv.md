@@ -9,51 +9,35 @@ redirect_from:
 
 {% include base_path %}
 
+[Full CV](https://jbengui.github.io/files/CV_jbengui.pdf)
+
+Current appointments
+======
+* Senior Research Advisor, Bank of Canada, August 2019 -
+* Research Afficilate, Center for Economic Policy Research (CEPR), 2018 -
+
+Past appointments
+======
+* Associate Professor, Université de Montréal, June 2019 - July 2020 (on leave August 2019, July 2020)
+* Assistant Professor, Université de Montréal, July 2012 - May 2019
+* Research Fellow, Centre interuniversitaire de recherche en économie quantitative (CIREQ), 2012 - 2020
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D in Economics, University of Maryland, College Park, 2012
+* M.A. in Quantitative Economics and Finance, University of St.Gallen, Switzerland, 2005
 
-Work experience
+Other Academic & Professional Experience:
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Visiting Scholar, McGill University, November 2022 – June 2023
+* CREI, Visiting scholar (January – June 2022)
+* Federal Reserve Bank of Minneapolis, Visiting scholar (July – August 2017)
+* CREI, Visiting scholar (March – April 2017)
+* World Bank, Office of the Chief Economist for LAC Region, Consultant (May – June 2012)  
+* Federal Reserve Bank of New York, Dissertation Intern (June – August 2011)
+* University of Maryland, Research Assistant (2009 – 2012)
+* Swiss National Bank, Research Assistant (2006 – 2007)
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
 
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
+For info about publications, seminar and conference presentations, discussants, grants, grants, teaching, advising, conference organization and refereeing, please see pdf version of CV [here](https://jbengui.github.io/files/CV_jbengui.pdf).
   
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
