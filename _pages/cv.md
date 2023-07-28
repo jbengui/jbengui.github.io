@@ -29,7 +29,7 @@ Education
 
 Other Academic & Professional Experience:
 ======
-* Visiting Scholar, McGill University, November 2022 – June 2023
+* McGill University, Visiting scholar,  November 2022 – June 2023
 * CREI, Visiting scholar (January – June 2022)
 * Federal Reserve Bank of Minneapolis, Visiting scholar (July – August 2017)
 * CREI, Visiting scholar (March – April 2017)
