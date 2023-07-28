@@ -11,24 +11,20 @@ redirect_from:
 
 [Full CV](https://jbengui.github.io/files/CV_jbengui.pdf)
 
-Current appointments
-======
+### Current appointments
 * Senior Research Advisor, Bank of Canada, August 2019 -
 * Research Afficilate, Center for Economic Policy Research (CEPR), 2018 -
 
-Past appointments
-======
+### Past appointments
 * Associate Professor, Université de Montréal, June 2019 - July 2020 (on leave August 2019, July 2020)
 * Assistant Professor, Université de Montréal, July 2012 - May 2019
 * Research Fellow, Centre interuniversitaire de recherche en économie quantitative (CIREQ), 2012 - 2020
 
-Education
-======
+### Education
 * Ph.D in Economics, University of Maryland, College Park, 2012
 * M.A. in Quantitative Economics and Finance, University of St.Gallen, Switzerland, 2005
 
-Other Academic & Professional Experience:
-======
+### Other Academic & Professional Experience:
 * McGill University, Visiting scholar,  November 2022 – June 2023
 * CREI, Visiting scholar (January – June 2022)
 * Federal Reserve Bank of Minneapolis, Visiting scholar (July – August 2017)
