@@ -5,8 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-Publications
-=======
+### Publications
 * “Macroprudential Policy with Leakages” with Javier Bianchi, Journal of International Economics, 139, November 2022.
 * “Slow Recoveries and Unemployment Traps: Monetary Policy in a Time of Hysteresis” with Sushant Acharya, Keshav Dogra and Shu Lin Wee, Economic Journal, 132(646), pp. 2007-2047, August 2022.
 * “Financial Safety Nets,” with Javier Bianchi and Louphou Coulibaly, International Economic Review, 60(1), pp. 105-132, February 2019.
