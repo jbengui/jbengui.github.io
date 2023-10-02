@@ -31,8 +31,9 @@ redirect_from:
 * CREI, Visiting Scholar, March - April 2017
 * World Bank, Office of the Chief Economist for LAC Region, Consultant, May - June 2012
 * Federal Reserve Bank of New York, Dissertation Intern, June - August 2011
-* University of Maryland, Research Assistant, 2009 - 2012
+* University of Maryland, Teaching and Research Assistant, 2007 - 2012
 * Swiss National Bank, Research Assistant, 2006 - 2007
+* RAFAD Foundation, Junior Staff, 2005 - 2006
 
 
 For info about publications, seminar and conference presentations, discussants, grants, teaching, advising, conference organization and refereeing, please see pdf version of CV [here](https://jbengui.github.io/files/CV_jbengui.pdf).
