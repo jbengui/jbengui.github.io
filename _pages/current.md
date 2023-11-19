@@ -6,9 +6,9 @@ author_profile: true
 ---
 
 ### Latest Working Papers
-* “A Macroprudential Theory of Foreign Reserve Accumulation” (with Fernando Arce and Javier Bianchi), revision requested by *AEJ Macroeconomics*
-* “Stagflation and Topsy-Turvy Capital Flows” (with Louphou Coulibaly)
-* “Overborrowing, Underborrowing and Macroprudential Policy” (with Fernando Arce and Javier Bianchi)
+* “Inflation and Capital Flows” (with Louphou Coulibaly), submitted
+* “Overborrowing, Underborrowing and Macroprudential Policy” (with Fernando Arce and Javier Bianchi), submitted
+* “A Macroprudential Theory of Foreign Reserve Accumulation” (with Fernando Arce and Javier Bianchi), resubmitted to *AEJ Macroeconomics*
 
 ### Work in Progress
 * “Invoicing Currency Concentration and Currency Risk Premia” (with Nick Sander)
