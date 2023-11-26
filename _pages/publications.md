@@ -5,7 +5,6 @@ permalink: /publications/
 author_profile: true
 ---
 
-### Publications
 * **Macroprudential Policy with Leakages**\
   with Javier Bianchi\
   *Journal of International Economics*, 139, November 2022. [Journal link](https://www.sciencedirect.com/science/article/abs/pii/S0022199622000915)\
