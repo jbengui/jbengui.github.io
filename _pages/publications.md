@@ -8,7 +8,7 @@ author_profile: true
 * **Macroprudential Policy with Leakages**\
   with Javier Bianchi\
   *Journal of International Economics*, 139, November 2022. [Journal link](https://www.sciencedirect.com/science/article/abs/pii/S0022199622000915)\
-  Also avilable as [NBER WP 25048](https://www.nber.org/papers/w25048) and [CEPR DP 13951](https://cepr.org/publications/dp13951)
+  Also available as [NBER WP 25048](https://www.nber.org/papers/w25048) and [CEPR DP 13951](https://cepr.org/publications/dp13951)
   
 * **Slow Recoveries and Unemployment Traps: Monetary Policy in a Time of Hysteresis**\
   with Sushant Acharya, Keshav Dogra and Shu Lin Wee\
