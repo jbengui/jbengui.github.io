@@ -14,13 +14,13 @@ author_profile: true
   with Sushant Acharya, Keshav Dogra and Shu Lin Wee\
    *Economic Journal*, 132(646), pp. 2007-2047, August 2022. [Journal link](https://academic.oup.com/ej/article-abstract/132/646/2007/6563876?redirectedFrom=fulltext)\
   Also available as [CEPR DP 13409](https://cepr.org/publications/dp13409) and [NY Fed Staff Report 831](https://www.newyorkfed.org/research/staff_reports/sr831.html)\
-  Featured in [Liberty Street Economics blog post](https://libertystreeteconomics.newyorkfed.org/2016/11/escaping-unemployment-traps/)
+  Featured in [Liberty Street Economics Blog Post](https://libertystreeteconomics.newyorkfed.org/2016/11/escaping-unemployment-traps/)
   
 * **Financial Safety Nets**\
   with Javier Bianchi and Louphou Coulibaly\
    *International Economic Review*, 60(1), pp. 105-132, February 2019.  [Journal link](https://onlinelibrary.wiley.com/doi/abs/10.1111/iere.12346)\
   Also available as [NBER WP 22594](https://www.nber.org/papers/w22594)\
-  Featured in [Minneapolis Fed post](https://www.minneapolisfed.org/article/2017/right-sizing-a-financial-safety-net)
+  Featured in [Minneapolis Fed article](https://www.minneapolisfed.org/article/2017/right-sizing-a-financial-safety-net)
   
 * **Liquidity Traps, Capital Flows**\
    with Sushant Acharya\
