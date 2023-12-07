@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Julien Bengui"
-  avatar           : "cropped.jpg" #"profile.png"
+  avatar           : "cropped.JPG" #"profile.png"
   bio              : "Senior Research Advisor at Bank of Canada"
   location         : "Ottawa, Canada"
   employer         :
