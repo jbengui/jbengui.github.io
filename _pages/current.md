@@ -13,7 +13,7 @@ author_profile: true
   
 * **[Overborrowing, Underborrowing and Macroprudential Policy](../files/OverUnderBorrowing.pdf)**\
   with Fernando Arce and Javier Bianchi\
-  R&R at *Journal of Economic Theory*
+  R&R at *Journal of Economic Theory*\
   [CEPR DP 18273](https://cepr.org/publications/dp18273)
   
 * **[A Macroprudential Theory of Foreign Reserve Accumulation](../files/Reserves_macropru_AEJ_Macro_Revision.pdf)**\
