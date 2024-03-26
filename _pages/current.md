@@ -11,12 +11,12 @@ author_profile: true
   [NBER WP 30652](https://www.nber.org/papers/w30652) and [CEPR DP 17661](https://cepr.org/publications/dp17661)\
   Featured in [Minneapolis Fed Article](https://www.minneapolisfed.org/article/2023/do-international-investment-flows-undermine-the-fight-against-inflation)
   
-* **Overborrowing, Underborrowing and Macroprudential Policy**\
+* **[Overborrowing, Underborrowing and Macroprudential Policy](../files/OverUnderBorrowing.pdf)**\
   with Fernando Arce and Javier Bianchi\
   R&R at *Journal of Economic Theory*
   [CEPR DP 18273](https://cepr.org/publications/dp18273)
   
-* **A Macroprudential Theory of Foreign Reserve Accumulation**\
+* **[A Macroprudential Theory of Foreign Reserve Accumulation](../files/Reserves_macropru_AEJ_Macro_Revision.pdf)**\
   with Fernando Arce and Javier Bianchi\
   resubmitted to *American Economic Journal: Macroeconomics*\
   [NBER WP 26236](https://www.nber.org/papers/w26236) and [CEPR DP 13952](https://cepr.org/publications/dp13952)
