@@ -13,7 +13,7 @@ redirect_from:
 
 ### Current appointments
 * Senior Research Advisor, Bank of Canada, August 2019 -
-* Research Afficilate, Center for Economic Policy Research (CEPR), 2018 -
+* Research Affiliate, Center for Economic Policy Research (CEPR), 2018 -
 
 ### Past appointments
 * Associate Professor, Université de Montréal, June 2019 - July 2020
