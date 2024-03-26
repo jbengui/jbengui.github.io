@@ -25,7 +25,7 @@ author_profile: true
 ### Work in Progress
 * **Invoicing Currency Concentration and Currency Risk Premia**\
   with Nick Sander
-* **Monetary Policy Transmission amid Demand Reallocations**
+* **Monetary Policy Transmission amid Demand Reallocations**\
   with Lu Han and Gaelan MacKenzie
 * **Optimal Transfer Policy during Stagflation**\
   with Louphou Coulibaly
