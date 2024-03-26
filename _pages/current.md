@@ -8,8 +8,8 @@ author_profile: true
 ### Latest Working Papers
 * **[Inflation and Capital Flows](../files/InflationCF.pdf)**\
   with Louphou Coulibaly\
-  [NBER WP 30652](https://www.nber.org/papers/w30652) and [CEPR DP 17661](https://cepr.org/publications/dp17661)\
-  Featured in [Minneapolis Fed Article](https://www.minneapolisfed.org/article/2023/do-international-investment-flows-undermine-the-fight-against-inflation)
+  ## [NBER WP 30652](https://www.nber.org/papers/w30652) and [CEPR DP 17661](https://cepr.org/publications/dp17661)\
+  ## Featured in [Minneapolis Fed Article](https://www.minneapolisfed.org/article/2023/do-international-investment-flows-undermine-the-fight-against-inflation)
   
 * **[Overborrowing, Underborrowing and Macroprudential Policy](../files/OverUnderBorrowing.pdf)**\
   with Fernando Arce and Javier Bianchi\
