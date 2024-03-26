@@ -9,9 +9,11 @@ author_profile: true
 * **Inflation and Capital Flows**\
   with Louphou Coulibaly\
   [NBER WP 30652](https://www.nber.org/papers/w30652) and [CEPR DP 17661](https://cepr.org/publications/dp17661)\
-  Featured in [Minneapolis Fed Article](https://www.minneapolisfed.org/article/2023/do-international-investment-flows-undermine-the-fight-against-inflation)  
+  Featured in [Minneapolis Fed Article](https://www.minneapolisfed.org/article/2023/do-international-investment-flows-undermine-the-fight-against-inflation)
+  
 * **Overborrowing, Underborrowing and Macroprudential Policy**\
   with Fernando Arce and Javier Bianchi\
+  R&R at *Journal of Economic Theory*
   [CEPR DP 18273](https://cepr.org/publications/dp18273)
   
 * **A Macroprudential Theory of Foreign Reserve Accumulation**\
@@ -23,8 +25,8 @@ author_profile: true
 ### Work in Progress
 * **Invoicing Currency Concentration and Currency Risk Premia**\
   with Nick Sander
-* **Invoicing Currencies and International Comovements**\
-  with Nick Sander
+* **Monetary Policy Transmission amid Demand Reallocations**
+  with Lu Han and Gaelan MacKenzie
 * **Optimal Transfer Policy during Stagflation**\
   with Louphou Coulibaly
 
