@@ -6,6 +6,9 @@ author_profile: true
 ---
 
 ### Latest Working Papers
+* **[Monetary Policy Transmission amid Demand Reallocations](../files/Sectoral_Inflation.pdf)**\
+  with Lu Han and Gaelan MacKenzie\
+
 * **[Inflation and Capital Flows](../files/InflationCF.pdf)**\
   with Louphou Coulibaly\
   R&R at *Review of Economic Studies*\
@@ -26,8 +29,6 @@ author_profile: true
 ### Work in Progress
 * **Invoicing Currency Concentration and Currency Risk Premia**\
   with Nick Sander
-* **Monetary Policy Transmission amid Demand Reallocations**\
-  with Lu Han and Gaelan MacKenzie
 
 ### Older Working Papers
 * **Macroprudential Policy Coordination**
