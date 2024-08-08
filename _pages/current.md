@@ -7,7 +7,7 @@ author_profile: true
 
 ### Latest Working Papers
 * **[Monetary Policy Transmission amid Demand Reallocations](../files/Sectoral_Inflation.pdf)**\
-  with Lu Han and Gaelan MacKenzie\
+  with Lu Han and Gaelan MacKenzie
 
 * **[Inflation and Capital Flows](../files/InflationCF.pdf)**\
   with Louphou Coulibaly\
