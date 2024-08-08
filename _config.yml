@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+oim# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Julien Bengui"
 title_separator          : "-"
 name                     : &name "Julien Bengui"
-description              : &description "Senior Research Advisor at Bank of Canada"
+description              : &description "Economic Advisor at Swiss National Bank"
 url                      : https://jbengui.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "jbengui.github.io"
@@ -82,8 +82,8 @@ analytics:
 author:
   name             : "Julien Bengui"
   avatar           : "cropped.png" #"profile.png"
-  bio              : "Senior Research Advisor at Bank of Canada"
-  location         : "Ottawa, Canada"
+  bio              : "Economic Advisor at Swiss National Bank"
+  location         : "Zurich, Switzerland"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=drX_GKMAAAAJ&hl=en&oi=ao"
