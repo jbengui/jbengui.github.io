@@ -12,7 +12,7 @@ redirect_from:
 [Full CV](https://jbengui.github.io/files/CV_jbengui.pdf)
 
 ### Current appointments
-* Economic Advisor, Swiss National Bank, July 2024
+* Economic Advisor, Swiss National Bank, July 2024 -
 * Research Affiliate, Center for Economic Policy Research (CEPR), 2018 -
 
 ### Past appointments
