@@ -12,10 +12,11 @@ redirect_from:
 [Full CV](https://jbengui.github.io/files/CV_jbengui.pdf)
 
 ### Current appointments
-* Senior Research Advisor, Bank of Canada, August 2019 -
+* Economic Advisor, Swiss National Bank, July 2024
 * Research Affiliate, Center for Economic Policy Research (CEPR), 2018 -
 
 ### Past appointments
+* Senior Research Advisor, Bank of Canada, August 2019 - June 2024
 * Associate Professor, Université de Montréal, June 2019 - July 2020
 * Assistant Professor, Université de Montréal, July 2012 - May 2019
 * Research Fellow, Centre interuniversitaire de recherche en économie quantitative (CIREQ), 2012 - 2020
