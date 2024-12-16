@@ -5,12 +5,6 @@ permalink: /current/
 author_profile: true
 ---
 
-### Latest Working Papers
-* **[Monetary Policy Transmission amid Demand Reallocations](../files/Sectoral_Inflation.pdf)**\
-  with Lu Han and Gaelan MacKenzie\
-  conditionally accepted at *International Journal of Central Banking*\
-  <sub>[CEPR DP 19409](https://cepr.org/publications/dp19409)</sub>
-
 * **[Inflation and Capital Flows](../files/InflationCF.pdf)**\
   with Louphou Coulibaly\
   R&R at *Review of Economic Studies*\
