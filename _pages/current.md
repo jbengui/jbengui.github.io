@@ -4,7 +4,7 @@ title: "Current Research"
 permalink: /current/
 author_profile: true
 ---
-
+### Latest Working Papers
 * **[Inflation and Capital Flows](../files/InflationCF.pdf)**\
   with Louphou Coulibaly\
   R&R at *Review of Economic Studies*\
