@@ -6,7 +6,7 @@ author_profile: true
 ---
 * **Monetary Policy Transmission amid Demand Reallocations**\
   with Lu Han and Gaelan MacKenzie\
-  *International Journal of Central Banking*, forthcoming.\
+  *International Journal of Central Banking*, forthcoming, April 2025.\
   <sub>[Latest version](../files/Sectoral_Inflation.pdf) </sub>
   <sub>[CEPR DP 19409](https://cepr.org/publications/dp19409)</sub>
 
