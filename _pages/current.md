@@ -18,7 +18,7 @@ author_profile: true
   
 * **[A Macroprudential Theory of Foreign Reserve Accumulation](../files/Reserves_macropru_AEJ_Macro_Revision.pdf)**\
   with Fernando Arce and Javier Bianchi\
-  resubmitted to *American Economic Journal: Macroeconomics*\
+  R&R at *American Economic Journal: Macroeconomics*\
   <sub>[NBER WP 26236](https://www.nber.org/papers/w26236) and [CEPR DP 13952](https://cepr.org/publications/dp13952)</sub>
   
 
