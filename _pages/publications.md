@@ -4,6 +4,11 @@ title: "Published Research"
 permalink: /publications/
 author_profile: true
 ---
+* **[Overborrowing, Underborrowing and Macroprudential Policy](../files/OverUnderBorrowing.pdf)**\
+  with Fernando Arce and Javier Bianchi\
+  *Journal of Economic Theory*, forthcoming\
+  <sub>[CEPR DP 18273](https://cepr.org/publications/dp18273)</sub>
+
 * **Monetary Policy Transmission amid Demand Reallocations**\
   with Lu Han and Gaelan MacKenzie\
   *International Journal of Central Banking*, forthcoming, April 2025.\
