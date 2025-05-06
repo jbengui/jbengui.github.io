@@ -12,12 +12,12 @@ author_profile: true
 * **Monetary Policy Transmission amid Demand Reallocations**\
   with Lu Han and Gaelan MacKenzie\
   *International Journal of Central Banking*, forthcoming, April 2025.\
-  <sub>[Latest version](../files/Sectoral_Inflation.pdf). Also available as [CEPR DP 19409](https://cepr.org/publications/dp19409)</sub>
+  <sub>[Journal Link](https://www.ijcb.org/journal/ijcb25q2a5.pdf). Also available as [CEPR DP 19409](https://cepr.org/publications/dp19409)</sub>
 
 * **Macroprudential Policy with Leakages**\
   with Javier Bianchi\
   *Journal of International Economics*, 139, November 2022.\
-  <sub>[Journal link.](https://www.sciencedirect.com/science/article/abs/pii/S0022199622000915) Also available as [NBER WP 25048](https://www.nber.org/papers/w25048) and [CEPR DP 13951](https://cepr.org/publications/dp13951)</sub>
+  <sub>[Journal link](https://www.sciencedirect.com/science/article/abs/pii/S0022199622000915). Also available as [NBER WP 25048](https://www.nber.org/papers/w25048) and [CEPR DP 13951](https://cepr.org/publications/dp13951)</sub>
   
 * **Slow Recoveries and Unemployment Traps: Monetary Policy in a Time of Hysteresis**\
   with Sushant Acharya, Keshav Dogra and Shu Lin Wee\
