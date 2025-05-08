@@ -11,7 +11,7 @@ author_profile: true
 
 * **Monetary Policy Transmission amid Demand Reallocations**\
   with Lu Han and Gaelan MacKenzie\
-  *International Journal of Central Banking*, forthcoming, April 2025.\
+  *International Journal of Central Banking*, 21(2), pp. 221-268, April 2025.\
   <sub>[Journal Link](https://www.ijcb.org/journal/ijcb25q2a5.pdf). Also available as [CEPR DP 19409](https://cepr.org/publications/dp19409)</sub>
 
 * **Macroprudential Policy with Leakages**\
