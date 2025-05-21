@@ -6,8 +6,8 @@ author_profile: true
 ---
 * **Overborrowing, Underborrowing and Macroprudential Policy**\
   with Fernando Arce and Javier Bianchi\
-  *Journal of Economic Theory*, forthcoming\
-  <sub>[Latest version](../files/OverUnderBorrowing.pdf). Also available as [CEPR DP 18273](https://cepr.org/publications/dp18273)</sub>
+  *Journal of Economic Theory*, 227, June 2025.\
+  <sub>[Journal Link](https://www.sciencedirect.com/science/article/abs/pii/S0022053125000651). Also available as [CEPR DP 18273](https://cepr.org/publications/dp18273)</sub>
 
 * **Monetary Policy Transmission amid Demand Reallocations**\
   with Lu Han and Gaelan MacKenzie\
