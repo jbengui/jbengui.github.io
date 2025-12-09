@@ -4,6 +4,13 @@ title: "Published Research"
 permalink: /publications/
 author_profile: true
 ---
+* **[Destabilizing Capital Flows Amid Global Inflation](../files/BC_InflationCF_final.pdf)**\
+  with Louphou Coulibaly\
+  accepted at *Review of Economic Studies*\
+  <sub>[NBER WP 30652](https://www.nber.org/papers/w30652) and [CEPR DP 17661](https://cepr.org/publications/dp17661)</sub>\
+  <sub>Featured in [Minneapolis Fed Article](https://www.minneapolisfed.org/article/2023/do-international-investment-flows-undermine-the-fight-against-inflation)
+
+
 * **Overborrowing, Underborrowing and Macroprudential Policy**\
   with Fernando Arce and Javier Bianchi\
   *Journal of Economic Theory*, 227, June 2025.\
