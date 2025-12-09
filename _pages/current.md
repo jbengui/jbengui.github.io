@@ -4,13 +4,7 @@ title: "Current Research"
 permalink: /current/
 author_profile: true
 ---
-### Latest Working Papers
-* **[Inflation and Capital Flows](../files/InflationCF.pdf)**\
-  with Louphou Coulibaly\
-  R&R at *Review of Economic Studies*\
-  <sub>[NBER WP 30652](https://www.nber.org/papers/w30652) and [CEPR DP 17661](https://cepr.org/publications/dp17661)</sub>\
-  <sub>Featured in [Minneapolis Fed Article](https://www.minneapolisfed.org/article/2023/do-international-investment-flows-undermine-the-fight-against-inflation)
-    
+### Latest Working Papers    
 * **[A Macroprudential Theory of Foreign Reserve Accumulation](../files/Reserves_macropru_AEJ_Macro_Revision.pdf)**\
   with Fernando Arce and Javier Bianchi\
   R&R at *American Economic Journal: Macroeconomics*\
